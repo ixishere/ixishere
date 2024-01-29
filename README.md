@@ -7,9 +7,9 @@
 
 <br></br>
 <div align="left">
-👋 Hello there! I'm Ahmed - I am a hobbyist developer
+👋 Hello there! I'm Ahmed - I am a full stack developer.
   
-🎓 Studying a computing MSc course at UCLan
+🎓 Studying a computing MSc course at UCLan.
 </div>
 
 ## Previous Experience 📒
